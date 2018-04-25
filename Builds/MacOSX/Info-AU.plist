@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+  <dict>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIconFile</key>
+    <string></string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourcompany.Synth_Polyphonique</string>
+    <key>CFBundleName</key>
+    <string>Synth_Framework</string>
+    <key>CFBundleDisplayName</key>
+    <string>Synth_Framework</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>NSHumanReadableCopyright</key>
+    <string></string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>AudioComponents</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>JJ Synths: Synth_Polyphonique</string>
+        <key>description</key>
+        <string>Synth_Polyphonique</string>
+        <key>factoryFunction</key>
+        <string>Synth_PolyphoniqueAUFactory</string>
+        <key>manufacturer</key>
+        <string>Manu</string>
+        <key>type</key>
+        <string>aumu</string>
+        <key>subtype</key>
+        <string>Yyu7</string>
+        <key>version</key>
+        <integer>65536</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="Yyu7sH" name="Synth_Framework" displaySplashScreen="1" reportAppUsage="1"
+              splashScreenColour="Dark" projectType="audioplug" version="1.0.0"
+              bundleIdentifier="com.yourcompany.Synth_Polyphonique" includeBinaryInAppConfig="1"
+              cppLanguageStandard="14" companyCopyright="" buildVST="1" buildVST3="0"
+              buildAU="1" buildAUv3="0" buildRTAS="0" buildAAX="0" buildStandalone="1"
+              pluginName="Synth_Polyphonique" pluginDesc="Synth_Polyphonique"
+              pluginManufacturer="JJ Synths" pluginManufacturerCode="Manu"
+              pluginCode="Yyu7" pluginChannelConfigs="" pluginIsSynth="1" pluginWantsMidiIn="1"
+              pluginProducesMidiOut="0" pluginIsMidiEffectPlugin="0" pluginEditorRequiresKeys="0"
+              pluginAUExportPrefix="Synth_PolyphoniqueAU" pluginRTASCategory=""
+              aaxIdentifier="com.yourcompany.Synth_Polyphonique" pluginAAXCategory="AAX_ePlugInCategory_Dynamics"
+              jucerVersion="5.2.1" headerPath="/Applications/JUCE/Synth_Polyphonique/Source/Maximilian-master">
+  <MAINGROUP id="sAvVB5" name="Synth_Framework">
+    <GROUP id="{51D98FCD-A6A1-0546-5346-CB6B6FD346DC}" name="Source">
+      <GROUP id="{13EED908-8CA3-14B5-3333-A0B287317006}" name="Maximilian">
+        <GROUP id="{8C633108-4DD3-BEB3-DB80-C504E204B5B5}" name="libs">
+          <FILE id="yisUiK" name="fft.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/fft.cpp"/>
+          <FILE id="d3fUZY" name="fft.h" compile="0" resource="0" file="Source/Maximilian-master/libs/fft.h"/>
+          <FILE id="NRIMUB" name="maxiAtoms.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/maxiAtoms.cpp"/>
+          <FILE id="uYgW81" name="maxiAtoms.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxiAtoms.h"/>
+          <FILE id="SnaZw0" name="maxiBark.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/maxiBark.cpp"/>
+          <FILE id="IxAxh5" name="maxiBark.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxiBark.h"/>
+          <FILE id="AhMGgj" name="maxiFFT.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/maxiFFT.cpp"/>
+          <FILE id="uorVIq" name="maxiFFT.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxiFFT.h"/>
+          <FILE id="E4QoQ8" name="maxiGrains.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/maxiGrains.cpp"/>
+          <FILE id="VeKI5m" name="maxiGrains.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxiGrains.h"/>
+          <FILE id="Lh017c" name="maxim.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxim.h"/>
+          <FILE id="UHBOBt" name="maxiMFCC.cpp" compile="1" resource="0" file="Source/Maximilian-master/libs/maxiMFCC.cpp"/>
+          <FILE id="x9wXmH" name="maxiMFCC.h" compile="0" resource="0" file="Source/Maximilian-master/libs/maxiMFCC.h"/>
+          <FILE id="zRUQrp" name="sineTable.h" compile="0" resource="0" file="Source/Maximilian-master/libs/sineTable.h"/>
+        </GROUP>
+        <FILE id="MSMTmG" name="main.cpp" compile="1" resource="0" file="Source/Maximilian-master/main.cpp"/>
+        <FILE id="AyHyd1" name="maximilian.cpp" compile="1" resource="0" file="Source/Maximilian-master/maximilian.cpp"/>
+        <FILE id="y8qjl5" name="maximilian.h" compile="0" resource="0" file="Source/Maximilian-master/maximilian.h"/>
+        <FILE id="LNWetb" name="stb_vorbis.c" compile="1" resource="0" file="Source/Maximilian-master/stb_vorbis.c"/>
+        <FILE id="xH68wq" name="stb_vorbis.h" compile="0" resource="0" file="Source/Maximilian-master/stb_vorbis.h"/>
+      </GROUP>
+      <FILE id="dFcak5" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="TRiHfG" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="szmKtH" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="Zf7b1g" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="xCvuqS" name="SynthSound.h" compile="0" resource="0" file="Source/SynthSound.h"/>
+      <FILE id="llQvUD" name="SynthVoice.h" compile="0" resource="0" file="Source/SynthVoice.h"/>
+      <FILE id="AcgL6R" name="Oscillator.cpp" compile="1" resource="0" file="Source/Oscillator.cpp"/>
+      <FILE id="eAH74U" name="Oscillator.h" compile="0" resource="0" file="Source/Oscillator.h"/>
+      <FILE id="JWhCgf" name="Envelope.cpp" compile="1" resource="0" file="Source/Envelope.cpp"/>
+      <FILE id="T26rn8" name="Envelope.h" compile="0" resource="0" file="Source/Envelope.h"/>
+      <FILE id="OavEou" name="Filter.cpp" compile="1" resource="0" file="Source/Filter.cpp"/>
+      <FILE id="JCY5AN" name="Filter.h" compile="0" resource="0" file="Source/Filter.h"/>
+      <FILE id="wl2i2H" name="LFO.cpp" compile="1" resource="0" file="Source/LFO.cpp"/>
+      <FILE id="gpMBQ2" name="LFO.h" compile="0" resource="0" file="Source/LFO.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" enablePluginBinaryCopyStep="1" isDebug="1" optimisation="1"
+                       linkTimeOptimisation="0" targetName="Synth_Polyphonique" headerPath="/Applications/JUCE/Synth_Polyphonique/Source/Maximilian-master"/>
+        <CONFIGURATION name="Release" enablePluginBinaryCopyStep="1" isDebug="0" optimisation="3"
+                       linkTimeOptimisation="1" targetName="Synth_Polyphonique" headerPath="/Applications/JUCE/Synth_Polyphonique/Source/Maximilian-master"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../modules"/>
+        <MODULEPATH id="juce_events" path="../modules"/>
+        <MODULEPATH id="juce_graphics" path="../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../modules"/>
+        <MODULEPATH id="juce_cryptography" path="../modules"/>
+        <MODULEPATH id="juce_video" path="../modules"/>
+        <MODULEPATH id="juce_opengl" path="../modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../modules"/>
+        <MODULEPATH id="juce_dsp" path="../modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+    <VS2017 targetFolder="Builds/VisualStudio2017">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
+                       debugInformationFormat="ProgramDatabase" enablePluginBinaryCopyStep="0"
+                       linkTimeOptimisation="0" isDebug="1" optimisation="1" targetName="Synth_Polyphonique"/>
+        <CONFIGURATION name="Release" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
+                       debugInformationFormat="ProgramDatabase" enablePluginBinaryCopyStep="0"
+                       linkTimeOptimisation="1" isDebug="0" optimisation="3" targetName="Synth_Polyphonique"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../modules"/>
+        <MODULEPATH id="juce_events" path="../modules"/>
+        <MODULEPATH id="juce_graphics" path="../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../modules"/>
+        <MODULEPATH id="juce_cryptography" path="../modules"/>
+        <MODULEPATH id="juce_video" path="../modules"/>
+        <MODULEPATH id="juce_opengl" path="../modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../modules"/>
+        <MODULEPATH id="juce_dsp" path="../modules"/>
+      </MODULEPATHS>
+    </VS2017>
+    <LINUX_MAKE targetFolder="Builds/LinuxMakefile">
+      <CONFIGURATIONS>
+        <CONFIGURATION name="Debug" isDebug="1" optimisation="1" linkTimeOptimisation="0"
+                       targetName="Synth_Polyphonique"/>
+        <CONFIGURATION name="Release" isDebug="0" optimisation="3" linkTimeOptimisation="1"
+                       targetName="Synth_Polyphonique"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_core" path="../modules"/>
+        <MODULEPATH id="juce_events" path="../modules"/>
+        <MODULEPATH id="juce_graphics" path="../modules"/>
+        <MODULEPATH id="juce_data_structures" path="../modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../modules"/>
+        <MODULEPATH id="juce_cryptography" path="../modules"/>
+        <MODULEPATH id="juce_video" path="../modules"/>
+        <MODULEPATH id="juce_opengl" path="../modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../modules"/>
+        <MODULEPATH id="juce_dsp" path="../modules"/>
+      </MODULEPATHS>
+    </LINUX_MAKE>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_video" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_QUICKTIME="disabled"/>
+</JUCERPROJECT>

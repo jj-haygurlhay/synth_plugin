@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Users/JJKaufman/Downloads/Maximilian-master/libs/maxiSynths.h"
+            timestampString = "540419914.266277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "class maxiKick"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Users/JJKaufman/Downloads/Maximilian-master/libs/maxiSynths.cpp"
+            timestampString = "541374647.0891269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "maxiKick :: maxiKick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "543359216.339285"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "Synth_polyphoniqueAudioProcessor::Synth_polyphoniqueAudioProcessor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "543133260.726644"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "Synth_polyphoniqueAudioProcessor::Synth_polyphoniqueAudioProcessor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginProcessor.cpp"
+            timestampString = "544928018.132731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "216"
+            endingLineNumber = "216"
+            landmarkName = "Synth_polyphoniqueAudioProcessor::createEditor()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/PluginEditor.h"
+            timestampString = "544927303.374846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "class Synth_polyphoniqueAudioProcessorEditor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Oscillator.h"
+            timestampString = "543169781.572938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+            timestampString = "543255060.906837"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
+            landmarkName = "class ReferenceCountedObjectPtr"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AudioProcessorGraph::Node&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.385602"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::ModuleHandle&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.387669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::VST3Classes::VST3ModuleHandle&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.389038"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::Component, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.390308"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::JavascriptEngine::RootObject&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.391535"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::DynamicObject&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.392693"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Expression::Term&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.393839"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::CurrentThreadHolder&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.3949749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Value::ValueSource&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.396244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::ValueTree::SharedObject&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.3973989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AsyncFunctionCallback&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.39852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::MessageManager::Lock::BlockingMessage&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.399639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AsyncUpdater::AsyncUpdaterMessage&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4008729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ActionBroadcaster, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.402019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Timer::TimerThread::CallTimersMessage&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4031301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::InterprocessConnection, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.40429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::MessageManager::MessageBase&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4054281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::MessageListener, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.40654"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::ImagePixelData&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.407649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Typeface&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.408771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Font::SharedFontInternal&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.409899"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::ClipRegions&lt;juce::RenderingHelpers::SoftwareRendererSavedState&gt;::Base&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.411492"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::CachedGlyphEdgeTable&lt;juce::RenderingHelpers::SoftwareRendererSavedState&gt; &gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4128931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::PopupMenu::CustomComponent&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.414162"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ComponentAnimator::AnimationTask, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4153661"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::LookAndFeel, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4165241"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ApplicationCommandTarget, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.417652"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::PopupMenu::CustomCallback&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4188"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::ClipRegions&lt;juce::OpenGLRendering::SavedState&gt;::Base&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.419925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::OpenGLRendering::ShaderPrograms&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.421156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::OpenGLRendering::CachedImageList&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.422279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::CachedGlyphEdgeTable&lt;juce::OpenGLRendering::SavedState&gt; &gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.423764"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::CustomProgram&gt;::operator-&gt;() const"
+                  moduleName = "Plugin Host"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/examples/audio%20plugin%20host/Builds/MacOSX/../../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.424912"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::Component, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4261481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AudioProcessorGraph::Node&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.428039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::JavascriptEngine::RootObject&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.42935"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::DynamicObject&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.430658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Expression::Term&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4317729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::CurrentThreadHolder&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.432887"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Value::ValueSource&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.434108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::ValueTree::SharedObject&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.435213"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AsyncFunctionCallback&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.436461"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::MessageManager::Lock::BlockingMessage&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.437595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::AsyncUpdater::AsyncUpdaterMessage&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4386981"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ActionBroadcaster, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.439819"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Timer::TimerThread::CallTimersMessage&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.44092"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::InterprocessConnection, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.442016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::MessageManager::MessageBase&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.443115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::MessageListener, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.444388"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::ImagePixelData&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.445542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Typeface&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.44673"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::Font::SharedFontInternal&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.447853"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::ClipRegions&lt;juce::RenderingHelpers::SoftwareRendererSavedState&gt;::Base&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.448966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::CachedGlyphEdgeTable&lt;juce::RenderingHelpers::SoftwareRendererSavedState&gt; &gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.450076"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::PopupMenu::CustomComponent&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.451201"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ComponentAnimator::AnimationTask, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.452365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::LookAndFeel, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.453477"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::WeakReference&lt;juce::ApplicationCommandTarget, juce::ReferenceCountedObject&gt;::SharedPointer&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.454613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::PopupMenu::CustomCallback&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.455801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::ClipRegions&lt;juce::OpenGLRendering::SavedState&gt;::Base&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.4568909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::OpenGLRendering::ShaderPrograms&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.457984"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::OpenGLRendering::CachedImageList&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.459126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::RenderingHelpers::CachedGlyphEdgeTable&lt;juce::OpenGLRendering::SavedState&gt; &gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.460364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "juce::ReferenceCountedObjectPtr&lt;juce::CustomProgram&gt;::operator-&gt;() const"
+                  moduleName = "Synth_Polyphonique"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/JUCE/Synth_Polyphonique/Builds/MacOSX/../../../modules/juce_core/memory/juce_ReferenceCountedObject.h"
+                  timestampString = "543255061.461498"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/SynthVoice.h"
+            timestampString = "545062490.441992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "setFilter()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/SynthVoice.h"
+            timestampString = "543775693.553346"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "setEnvelope()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Source/Oscillator.h"
+            timestampString = "543799067.1922311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
