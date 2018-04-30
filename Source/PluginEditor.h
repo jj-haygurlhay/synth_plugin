@@ -16,6 +16,7 @@
 #include "Envelope.h"
 #include "Filter.h"
 #include "LFO.h"
+#include "Mixer.h"
 
 
 
