@@ -163,6 +163,7 @@
     <ClCompile Include="..\..\Source\Envelope.cpp"/>
     <ClCompile Include="..\..\Source\Filter.cpp"/>
     <ClCompile Include="..\..\Source\LFO.cpp"/>
+    <ClCompile Include="..\..\Source\Mixer.cpp"/>
     <ClCompile Include="..\..\..\modules\juce_audio_basics\buffers\juce_AudioChannelSet.cpp">
       <ExcludedFromBuild>true</ExcludedFromBuild>
     </ClCompile>
@@ -1954,6 +1955,7 @@
     <ClInclude Include="..\..\Source\Envelope.h"/>
     <ClInclude Include="..\..\Source\Filter.h"/>
     <ClInclude Include="..\..\Source\LFO.h"/>
+    <ClInclude Include="..\..\Source\Mixer.h"/>
     <ClInclude Include="..\..\..\modules\juce_audio_basics\audio_play_head\juce_AudioPlayHead.h"/>
     <ClInclude Include="..\..\..\modules\juce_audio_basics\buffers\juce_AudioChannelSet.h"/>
     <ClInclude Include="..\..\..\modules\juce_audio_basics\buffers\juce_AudioDataConverters.h"/>

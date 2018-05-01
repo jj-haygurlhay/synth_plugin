@@ -178,7 +178,22 @@ public:
                 clearCurrentNote();
             
         }
+        void getVolume(float *selection){
+            volumeAmnt = *selection;
     
+        }
+        double setVolumeparam(){
+            level += volumeAmnt;
+            return level;
+        }
+    
+        void getTranspose(float *selection){
+            transposeAmnt = *selection;
+
+        }
+        double setTranspose(){
+            
+        }
         void renderNextBlock(AudioBuffer<float> &outputBuffer, int startSample, int numSamples){
             
             for(int sample = 0; sample<numSamples; ++sample){
@@ -230,6 +245,8 @@ private:
         float lfoRate;
         float lfoAmount;
     
+        float volumeAmnt;
+        int transposeAmnt;
     
         maxiOsc osc1;
         maxiOsc osc2;

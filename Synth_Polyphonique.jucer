@@ -54,6 +54,8 @@
       <FILE id="JCY5AN" name="Filter.h" compile="0" resource="0" file="Source/Filter.h"/>
       <FILE id="wl2i2H" name="LFO.cpp" compile="1" resource="0" file="Source/LFO.cpp"/>
       <FILE id="gpMBQ2" name="LFO.h" compile="0" resource="0" file="Source/LFO.h"/>
+      <FILE id="JlOPX6" name="Mixer.cpp" compile="1" resource="0" file="Source/Mixer.cpp"/>
+      <FILE id="qry2QY" name="Mixer.h" compile="0" resource="0" file="Source/Mixer.h"/>
     </GROUP>
   </MAINGROUP>
   <EXPORTFORMATS>

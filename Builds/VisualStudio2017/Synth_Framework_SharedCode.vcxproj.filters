@@ -463,6 +463,9 @@
     <ClCompile Include="..\..\Source\LFO.cpp">
       <Filter>Synth_Framework\Source</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Mixer.cpp">
+      <Filter>Synth_Framework\Source</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\..\modules\juce_audio_basics\buffers\juce_AudioChannelSet.cpp">
       <Filter>JUCE Modules\juce_audio_basics\buffers</Filter>
     </ClCompile>
@@ -2449,6 +2452,9 @@
       <Filter>Synth_Framework\Source</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\LFO.h">
+      <Filter>Synth_Framework\Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Mixer.h">
       <Filter>Synth_Framework\Source</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\modules\juce_audio_basics\audio_play_head\juce_AudioPlayHead.h">

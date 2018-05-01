@@ -109,6 +109,7 @@ OBJECTS_SHARED_CODE := \
   $(JUCE_OBJDIR)/Envelope_2c60e259.o \
   $(JUCE_OBJDIR)/Filter_cccb6f01.o \
   $(JUCE_OBJDIR)/LFO_e2398216.o \
+  $(JUCE_OBJDIR)/Mixer_d95e2aea.o \
   $(JUCE_OBJDIR)/include_juce_audio_basics_8a4e984a.o \
   $(JUCE_OBJDIR)/include_juce_audio_devices_63111d02.o \
   $(JUCE_OBJDIR)/include_juce_audio_formats_15f82001.o \
@@ -238,6 +239,11 @@ $(JUCE_OBJDIR)/Filter_cccb6f01.o: ../../Source/Filter.cpp
 $(JUCE_OBJDIR)/LFO_e2398216.o: ../../Source/LFO.cpp
 	-$(V_AT)mkdir -p $(JUCE_OBJDIR)
 	@echo "Compiling LFO.cpp"
+	$(V_AT)$(CXX) $(JUCE_CXXFLAGS) $(JUCE_CPPFLAGS_SHARED_CODE) $(JUCE_CFLAGS_SHARED_CODE) -o "$@" -c "$<"
+
+$(JUCE_OBJDIR)/Mixer_d95e2aea.o: ../../Source/Mixer.cpp
+	-$(V_AT)mkdir -p $(JUCE_OBJDIR)
+	@echo "Compiling Mixer.cpp"
 	$(V_AT)$(CXX) $(JUCE_CXXFLAGS) $(JUCE_CPPFLAGS_SHARED_CODE) $(JUCE_CFLAGS_SHARED_CODE) -o "$@" -c "$<"
 
 $(JUCE_OBJDIR)/include_juce_audio_basics_8a4e984a.o: ../../JuceLibraryCode/include_juce_audio_basics.cpp

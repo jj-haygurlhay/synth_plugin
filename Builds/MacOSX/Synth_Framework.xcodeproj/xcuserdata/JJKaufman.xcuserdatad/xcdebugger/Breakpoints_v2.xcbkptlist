@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../../Source/PluginEditor.h"
-            timestampString = "544927303.374846"
+            timestampString = "546787365.436618"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
             landmarkName = "class Synth_polyphoniqueAudioProcessorEditor"
             landmarkType = "3">
          </BreakpointContent>

@@ -12,40 +12,60 @@
 #include "Mixer.h"
 
 //==============================================================================
-Mixer::Mixer()
+Mixer::Mixer(Synth_polyphoniqueAudioProcessor&p):
+processor(p)
 {
-    // In your constructor, you should add any child components, and
-    // initialise any special settings that your component needs.
-
+    setSize(200, 200);
+    volume.setSliderStyle(Slider::SliderStyle::RotaryHorizontalVerticalDrag);
+    volume.setRange(-48.0, 6.0);
+    volume.setValue (0.0);
+    volume.setTextBoxStyle(Slider::NoTextBox, false, 0, 0);
+    addAndMakeVisible(&volume);
+    
+    volVal = new AudioProcessorValueTreeState::SliderAttachment(processor.tree, "volume", volume);
+    
+    transpose.setSliderStyle(Slider::SliderStyle::RotaryHorizontalVerticalDrag);
+    transpose.setRange(-48, 48);
+    transpose.setValue (0.0);
+    transpose.setTextBoxStyle(Slider::NoTextBox, false, 0, 0);
+    addAndMakeVisible(&transpose);
+    pitchVal = new AudioProcessorValueTreeState::SliderAttachment(processor.tree, "transpose", transpose);
+    
 }
 
 Mixer::~Mixer()
 {
+    delete volVal;
+    delete pitchVal;
 }
 
 void Mixer::paint (Graphics& g)
 {
-    /* This demo code just fills the component's background and
-       draws some placeholder text to get you started.
+   
+    Rectangle<int> titleArea (0, 10, getWidth(), 20);
+    
 
-       You should replace everything in this method with your own
-       drawing code..
-    */
-
-    g.fillAll (getLookAndFeel().findColour (ResizableWindow::backgroundColourId));   // clear the background
-
-    g.setColour (Colours::grey);
-    g.drawRect (getLocalBounds(), 1);   // draw an outline around the component
-
-    g.setColour (Colours::white);
-    g.setFont (14.0f);
-    g.drawText ("Mixer", getLocalBounds(),
-                Justification::centred, true);   // draw some placeholder text
+    g.fillAll (Colours::black);
+    g.setColour(Colours::white);
+    g.drawText("Mixer", titleArea, Justification::centredTop);
+        
+    g.drawText("Volume", 30, 75, 8, 8, Justification::centredLeft);
+    g.drawText("Transpose", 100, 75, 8, 8, Justification::centredLeft);
+    
+    Rectangle <float> area (25, 25, 350, 150);
+    
+    g.setColour(Colours::yellow);
+    g.drawRoundedRectangle(area, 20.0f, 2.0f);
+    
 }
 
 void Mixer::resized()
 {
-    // This method is where you should set the bounds of any child
-    // components that your component contains..
-
+    Rectangle<int> area = getLocalBounds().reduced(40);
+    
+    //onSwitch.setBounds(area.removeFromTop(20));
+    
+    volume.setBounds (35, 100, 70, 70);
+    transpose.setBounds(105, 100, 70, 70);
+    
 }

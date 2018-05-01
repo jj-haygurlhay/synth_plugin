@@ -20,7 +20,7 @@
 class Mixer    : public Component
 {
 public:
-    Mixer();
+    Mixer(Synth_polyphoniqueAudioProcessor&);
     ~Mixer();
 
     void paint (Graphics&) override;
@@ -29,6 +29,11 @@ public:
 private:
     Slider volume;
     Slider transpose;
+    
+    AudioProcessorValueTreeState::SliderAttachment *volVal;
+    AudioProcessorValueTreeState::SliderAttachment *pitchVal;
+    
+    Synth_polyphoniqueAudioProcessor& processor;
     
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (Mixer)
 };
