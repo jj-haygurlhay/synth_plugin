@@ -26,7 +26,7 @@ processor(p)
     filterTypeVal = new AudioProcessorValueTreeState::ComboBoxAttachment (processor.tree, "filterType", filterMenu);
     
     filtCutoff.setSliderStyle(Slider::SliderStyle::RotaryHorizontalVerticalDrag);
-    filtCutoff.setRange(20.0, 10000.0);
+    filtCutoff.setRange(10.0, 10000.0);
     filtCutoff.setValue (5000.0);
     filtCutoff.setTextBoxStyle(Slider::NoTextBox, false, 0, 0);
 
